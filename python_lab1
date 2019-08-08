@@ -1,0 +1,64 @@
+*Important differences between Python 2.x and Python 3.x with examples
+ Division operator
+ print function
+ Unicode
+ xrange
+ Error Handling
+ _future_ module
+
+
+*Tools to execute python code
+ 1.Python IDLE
+ 2.Command prompt
+ 3.Sublime Text
+ 4.PyCharm
+ 5.Spydeer
+ 6.PyScripter
+ 7.Jupyter Notebook
+ 
+ 
+ Python tools for different domains
+ 1.For Machine learning
+   *Scikit-learn
+   *StatsModel
+   *PyMc
+   *Theano
+   
+ 2.For Big Data
+  *Pandas
+  *PySpark
+  *Scikit-learn
+ 
+ 3.For IOT
+  *mraa
+  *sockets
+  *mysqldb
+  *numpy
+  *matplotlib
+  *requests
+  *tensorflow
+  *opencv
+  *tkinter
+  
+ 4.For Cybersecurity
+  *Scapy
+  *Nmap
+  *Yara
+  *BeautifulSoup
+  *Requests
+  
+ 5.For Automation Testing
+  *Selenium
+  *TestComplete
+  *RobotFramework
+  
+  
+ 6.Network Programming
+  *Scapy
+  *dnspython
+  
+ 7.Artificial Intelligence
+  *Tensorflow
+  *Theano
+  *Keras
+  *Scikit-learn
