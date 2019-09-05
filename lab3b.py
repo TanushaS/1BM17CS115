@@ -2,7 +2,7 @@ import random
 import string
 def genpwd():
   letters=string.ascii_letters+string.digits+"!@#$%^&*"
-  length=random.randint(8,12)
+  length=random.randint(10,15)
   return ''.join(random.sample(letters,length))
 flag=1
 while flag:
